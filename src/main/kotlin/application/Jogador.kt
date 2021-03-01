@@ -27,4 +27,6 @@ class Jogador(
             print("Erro encontrado...")
         }
     }
-}
+
+
+    }
